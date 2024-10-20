@@ -42,3 +42,8 @@ DataSyncTool simplifies the complexities of data migration and transformation, m
    export DB_USER=<DB_USER>
    export DB_PASS=<DB_PASS>
    ```
+
+**Flow**
+![Untitled-2024-10-20-1650](https://github.com/user-attachments/assets/22224fde-c3a7-479c-9d50-6c41a82bff55)
+
+
